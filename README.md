@@ -13,7 +13,7 @@ Download Python 3 installation file from https://www.python.org/
 
 Install pipenv as global package by this command.
 
-'''bash
-  pip install pipenv
-'''
+
+`pip install pipenv`
+
 Note: for macOS with pre-installed Python 2, use pip3 instead of pip.
